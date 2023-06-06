@@ -1,0 +1,25 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+
+.title {
+  text-align: center;
+}
+
+
+.containerDados{
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.containerDados p{
+  text-align: center;
+}
